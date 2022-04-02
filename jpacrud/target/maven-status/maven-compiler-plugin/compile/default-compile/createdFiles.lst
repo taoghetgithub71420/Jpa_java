@@ -1,0 +1,7 @@
+com\abcduy\customer\CustomerController.class
+com\abcduy\customer\CustomerRepository.class
+com\abcduy\config\WebAppInitializer.class
+com\abcduy\config\WebMvcConfig.class
+com\abcduy\customer\Customer.class
+com\abcduy\customer\CustomerService.class
+com\abcduy\config\JpaConfig.class
